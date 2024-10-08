@@ -1,0 +1,52 @@
+-Ls
+Ls lists content basically files and stuff
+
+Ls -a   lists all files including hidden ones
+
+Ls -a ~files   lists all files in the file 
+
+If you do CD any files, then do ls then you can see documents in that file
+
+btw pwd shows you what file or directory your at
+-----------------------------------------
+How to make a file
+
+mkdir makes a file. mkdir makes a file. you can use cd to go in a folder to create a folder in a folder. 
+Example cd Documents/ then the command, Mkdir Wallpaper   makes a folder by the name `wallpaper`
+
+touch makes file
+deleting a file 
+rm wallpaper   this will delete the file called wallpaper.
+
+mv is to rename a file 
+
+mv is the command to rename stuff
+example
+mv wallpaper oldwallpaper
+
+-----------------------------------------------------------
+cd makes you go back and in. just cd makes you go in 
+cd is just to go back
+
+cd ~ to go to home directory. goes back to like zero
+cd / to go to root directory. basically the drive
+
+---------------------------------------------------
+User commands
+how to add a user
+su - to get admin
+sudo useradd (name)
+sudo id (name) to make sure that a user was created
+make password is. sudo passwd (name) then enter password
+
+How to change hostname
+sudo hostnamectl set-hostname newhostname sudo 
+sudo systemctl restart systemd-hostname
+
+how to change username 
+sudo chfn -f new name oldusername
+---------------------------------------------
+how to check git name 
+git config --global --list
+lists ur name and email
+
