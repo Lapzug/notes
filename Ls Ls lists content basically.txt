@@ -50,3 +50,8 @@ how to check git name
 git config --global --list
 lists ur name and email
 
+mkdir my-repo
+cd my-repo
+git init
+git push filename 
+
