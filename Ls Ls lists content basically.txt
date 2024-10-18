@@ -91,8 +91,6 @@ Here are a few fundamental concepts:
 
 Variables: Store data in variables like this:
 
-bash
-Copy code
 name="ahmed"
 echo "Hello, $name"
 $VAR means varaible to make one go name="example"
@@ -103,4 +101,14 @@ cd example
 git init
 git "example" > example
 git commit -m "eample"
+-------------------------------------------------
+if else then explained
+if (condition) then 
+(if condition is true)
+else
+(if its wrong)
+fi
+
+read is the command for the variable.examples, read number, read age,
+
 
