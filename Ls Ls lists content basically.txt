@@ -1,1 +1,12 @@
-git "example" > example
+git commit -m "eample"
+-------------------------------------------------
+if else then explained
+if (condition) then 
+(if condition is true)
+else
+(if its wrong)
+fi
+
+read is the command for the variable.examples, read number, read age,
+
+
